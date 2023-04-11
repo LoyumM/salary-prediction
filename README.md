@@ -14,6 +14,9 @@ The features selected are:
 
 The web app is deployed at https://loyumm-salary-prediction-app-05tfgq.streamlit.app/
 
+## Screenshot of webapp
+![Home](./screenshots/UI.png)
+
 ## To run it locally:
 
 The app is deployed on streamlit cloud and will be deployed using other platforms later. However, it is also available for offline run.
@@ -21,7 +24,7 @@ To do so, open terminal and do the followig steps:
 
 #### Clone the repo
 
-`https://github.com/LoyumM/salary-prediction.git`
+`git clone 'https://github.com/LoyumM/salary-prediction.git'`
 
 #### Create a virtual environment
 
