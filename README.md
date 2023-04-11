@@ -15,7 +15,7 @@ The features selected are:
 The web app is deployed at https://loyumm-salary-prediction-app-05tfgq.streamlit.app/
 
 ## Screenshot of webapp
-![Home](./screenshots/UI.png)
+![Home](./screenshot/UI.png)
 
 ## To run it locally:
 
